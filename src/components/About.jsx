@@ -1,3 +1,4 @@
+{/*PEDRO LUCAS MS CUNHA - ID 301.376.268 2024-01-28   */}
 import React from 'react';
 import backgroundImage from '../assets/dogbackground.jpg'; // Adjust the path based on your folder structure
 

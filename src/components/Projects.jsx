@@ -1,3 +1,5 @@
+{/*PEDRO LUCAS MS CUNHA - ID 301.376.268 2024-01-28   */}
+
 import React from 'react';
 import img2 from '../assets/img2.png';
 import img1 from '../assets/img1.png';
